@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "comp-bio-skills-2026"
+assignment: "assignment-2xc"
+owner:
+  username: "cbird808"
+  id: 12803659
+  accepted_at: "2026-09-13T22:57:15Z"
+source:
+  owner: "comp-bio-master"
+  owner_id: 54107743
+  repo: "assignment-2xc"
+  branch: "master"
